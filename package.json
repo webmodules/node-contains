@@ -1,6 +1,6 @@
 {
   "name": "node-contains",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "`Node#contains()` cross browser polyfill",
   "main": "index.js",
   "scripts": {
