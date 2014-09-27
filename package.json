@@ -1,0 +1,26 @@
+{
+  "name": "node-contains",
+  "version": "0.0.0",
+  "description": "`Node#contains()` cross browser polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/node-contains.git"
+  },
+  "keywords": [
+    "browser",
+    "node",
+    "contains",
+    "polyfill",
+    "dom"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/node-contains/issues"
+  },
+  "homepage": "https://github.com/webmodules/node-contains"
+}
