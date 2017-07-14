@@ -17,5 +17,5 @@ module.exports = contains;
  */
 
 function contains (node, other) {
-  return node === other || !!(node.compareDocumentPosition(other) & 16);
+  return other && (node === other || !!(node.compareDocumentPosition(other) & 16) );
 }
